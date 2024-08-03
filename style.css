@@ -1,0 +1,53 @@
+body{
+    background-color: gray;
+
+}
+h2{
+    font-size:30px;
+    float:left;
+    font-family: "Titillium Web", sans-serif;
+    font-weight:600;
+    font-style: italic;
+}
+ul{
+    font-size: 20px;
+    list-style-type: none;
+    font-family: "Titillium Web", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+li{
+    float: right;
+    padding-top: 25px;
+    padding-right:50px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: aliceblue;
+}
+.main{
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    width:1000px;
+    height: 1000px;
+    padding-left: 230px ;
+    padding-top:150px ;
+    background-color: aliceblue;
+}
+
+.i{
+    padding-top: 200px;
+    padding-left: 600px;
+}
+button
+{
+    background-color: gray;
+    font-family: "Titillium Web", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
